@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayJSeth, AKA Seth Johnson
+- 👋 Hi, I’m @RayJSeth, AKA Seth Johnson (He/Him)
 - 👀 I’m interested in ... Typescript Node, Go, FRP, SBCs, Kubernetes
 - 🌱 I’m currently learning ... Helm, Terraform, GitOps
 - 📫 How to reach me ... seth@rayjseth.io
