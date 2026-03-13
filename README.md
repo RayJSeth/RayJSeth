@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayJSeth, AKA Seth Johnson (He/Him)
-- 💜 Currently working with: Go, Kubernetes (CRDs, platform), AWS, Iot/Embedded
+- 💜 Currently working with: Go, Kubernetes (CRDs, platform), AWS, IoT/Embedded
 - 🌱 Learning: LoRA and fine tuning, agentic orchestration, embedded/low power systems, Pulumi IaC
 - 📫 How to reach me: seth@rayjseth.io
 - 🌙 https://rayjseth.io
