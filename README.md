@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayJSeth, AKA Seth Johnson (He/Him)
-- 💜 Currently working with: Go, Typescript, React, K8s, Azure
-- 🌱 Learning: LLM, RAG, embedded/low power systems, homelab
+- 💜 Currently working with: Go, Kubernetes (CRDs, platform), AWS, Iot/Embedded
+- 🌱 Learning: LoRA and fine tuning, agentic orchestration, embedded/low power systems, Pulumi IaC
 - 📫 How to reach me: seth@rayjseth.io
 - 🌙 https://rayjseth.io
